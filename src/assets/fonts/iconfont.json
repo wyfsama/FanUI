@@ -1,0 +1,58 @@
+{
+  "id": "2514170",
+  "name": "fanui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7826085",
+      "name": "close",
+      "font_class": "baseline-close-px",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21193291",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "21193292",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "21193294",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "21193295",
+      "name": "存储",
+      "font_class": "cunchu",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "21193303",
+      "name": "通讯",
+      "font_class": "tongxun",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "21193304",
+      "name": "账单",
+      "font_class": "zhangdan",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
